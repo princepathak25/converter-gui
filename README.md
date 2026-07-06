@@ -2,7 +2,8 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Tkinter](https://img.shields.io/badge/Tkinter-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-An ultra-sleek unit converter app made for reducing your worries to convert different metrics. 
+An ultra-sleek unit converter app made for reducing your worries to convert different metrics.
+
 Supports **Length**, **Weight**, and **Temperature** conversions in a clean, modern interface.
 
 ---
